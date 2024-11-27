@@ -45,7 +45,7 @@
     "lavaclient": "^4.1.1",
     "module-alias": "^2.2.3",
     "moment": "^2.30.1",
-    "mongoose": "^8.8.2",
+    "mongoose": "^8.8.3",
     "nekos.life": "^3.0.0",
     "node-fetch": "^2.7.0",
     "os": "^0.1.2",
@@ -69,11 +69,11 @@
     "@eslint/eslintrc": "^3.2.0",
     "@eslint/js": "^9.15.0",
     "eslint": "^9.15.0",
-    "eslint-plugin-jsdoc": "^50.5.0",
+    "eslint-plugin-jsdoc": "^50.6.0",
     "globals": "^15.12.0",
     "node": "^18.20.5",
     "nodemon": "^3.1.7",
-    "prettier": "3.3.3"
+    "prettier": "^3.4.1"
   },
   "keywords": [
     "discord",
